@@ -123,7 +123,7 @@
   </citation>
   <bibliography hanging-indent="true" second-field-align="margin">
     <sort>
-      <key variable="citation-number"/>
+      <key variable="title"/>
     </sort>
     <layout suffix=".">
       <text variable="citation-number" suffix=". "/>
